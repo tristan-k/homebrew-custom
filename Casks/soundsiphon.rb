@@ -4,7 +4,7 @@ cask :v1 => 'soundsiphon' do
 
   url 'http://staticz.com/download/1837/'
   name 'Sound Siphon'
-  homepage 'hhttp://staticz.com/'
+  homepage 'http://staticz.com/'
   license :commercial
 
   app 'Sound Siphon.app'
