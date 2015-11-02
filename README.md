@@ -8,6 +8,6 @@ An [Homebrew Cask](http://caskroom.io) tap for installing software which otherwi
 ### Installing the Cask
 
 ```shell
-$ brew tap tristan-k/caskroom
+$ brew tap tristan-k/homebrew-custom
 $ brew cask install cryptomator
 ```
