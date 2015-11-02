@@ -1,4 +1,4 @@
-tristan-k/homebrew-tristank/
+tristan-k/homebrew-custom/
 ================
 
 ### Summary
