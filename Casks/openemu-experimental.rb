@@ -38,7 +38,7 @@ cask :v1 => 'openemu-experimental' do
                   '~/Library/Preferences/org.openemu.VecXGL.plist',
                   '~/Library/Preferences/org.openemu.VisualBoyAdvance.plist',
                   '~/Library/Preferences/org.openemu.Yabause.plist',
-                  '~/Library/Preferences/org.openemu.desmume.plist',
+                  '~/Library/Preferences/org.openemu.desmume.plist'
                  ]
 
   depends_on :macos => '>= :lion'
