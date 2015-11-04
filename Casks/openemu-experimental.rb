@@ -31,7 +31,7 @@ cask :v1 => 'openemu-experimental' do
                   '~/Library/Preferences/org.openemu.Nestopia.plist',
                   '~/Library/Preferences/org.openemu.PPSSPP.plist',
                   '~/Library/Preferences/org.openemu.Picodrive.plist',
-                  '~/Library/Preferences/org.openemu.ProSystem.plist'
+                  '~/Library/Preferences/org.openemu.ProSystem.plist',
                   '~/Library/Preferences/org.openemu.SNES9x.plist',
                   '~/Library/Preferences/org.openemu.Stella.plist',
                   '~/Library/Preferences/org.openemu.TwoMbit.plist',
