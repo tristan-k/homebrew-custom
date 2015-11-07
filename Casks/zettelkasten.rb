@@ -1,0 +1,11 @@
+ cask :v1 => 'zettelkasten' do
+   version '3.2.7'
+   sha256 '7e975f1cfaf3e06c0f394bf57686456915411355ded2b5736cdb99e9928544be'
+
+   url 'http://zettelkasten.danielluedecke.de/download/Zettelkasten3_mac.zip'
+   name 'Zettelkasten'
+   homepage 'http://zettelkasten.danielluedecke.de/'
+   license :gpl
+
+   app 'Zettelkasten.app'
+ end
