@@ -1,6 +1,6 @@
 cask :v1 => 'cryptomator' do
-  version '0.10.0'
-  sha256 'a696d01cae49e15a95dda928549cd2d208dcf3c374dea290dfefefed00046366'
+  version '0.10.1'
+  sha256 'b41a0f38fb112526cf2075f85eb6177834fe326624b39b4d35547e3cc0b5a898'
 
   # bintray.com is the official download host per the vendor homepage
   url "https://dl.bintray.com/cryptomator/cryptomator/Cryptomator-#{version}.dmg"
