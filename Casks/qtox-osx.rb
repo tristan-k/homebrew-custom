@@ -1,8 +1,8 @@
 cask :v1 => 'qtox-osx' do
-  version '1.0.EXPERIMENTAL.1'
-  sha256 '686b31ce8b05ecb12e14025a5294af28870e82d69b2755a928d86a6f893ac55c'
+  version 'PATCH-1.0.1.2'
+  sha256 'f7fc0f1b317e0b8af0011ce1856baab0f18f661592cf19634a21db8113427383'
 
-  url 'https://github.com/RowenStipe/qTox-OSX/releases/download/1.0.EXPERIMENTAL.1/qTox-OSX-1.0.EXPERIMENTAL.1.dmg'
+  url 'https://github.com/RowenStipe/qTox-OSX/releases/download/PATCH-1.0.1.2/qTox-OSX-PATCH-1.0.1.2.dmg'
   name 'qTox'
   homepage 'https://blog.tox.chat/'
   license :gpl
