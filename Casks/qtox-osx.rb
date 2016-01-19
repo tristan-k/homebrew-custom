@@ -1,4 +1,4 @@
-cask :v1 => 'qtox-osx' do
+cask 'qtox-osx' do
   version '1.2.2.184'
   sha256 '0911dab7e9ea993c6f67a93dd652b83ad168aa1fd7b0ae1eee8eb353750c2cb1'
 
