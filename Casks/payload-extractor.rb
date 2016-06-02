@@ -4,7 +4,7 @@ cask :v1 => 'payload-extractor' do
 
   # bintray.com is the official download host per the vendor homepage
   url 'https://github.com/downloads/hac/payloadextractor/Payload%20Extractor%201.2.dmg'
-  name 'Payload Extractor'
+  name 'payload-extractor'
   homepage 'http://hactheplanet.com/mac/payloadextractor'
   license :oss
 

@@ -3,7 +3,7 @@ cask :v1 => 'synergykm' do
   sha256 '514cc2e1fd7c815d7e81028365e8faf53621d97cdef6804366a656e5f5ae4719'
 
   url 'http://synergykm.com/SynergyKM-1.0.2-Installer.zip'
-  name 'SynergyKM'
+  name 'synergykm'
   homepage 'http://synergykm.com/'
   license :open
 

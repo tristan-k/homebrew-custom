@@ -3,7 +3,7 @@ cask :v1 => 'dockdodger' do
   sha256 '0dd4c4956d2fe0b223cd84cdeca8f82ffc51bf90ebdd0fb599c61459dfba2eeb'
 
   url 'http://www.macupdate.com/download/24427/Dock%20Dodger.zip'
-  name 'Dock Dodger'
+  name 'dockdodger'
   homepage 'http://foggynoggin.com/'
   license :gratis
 

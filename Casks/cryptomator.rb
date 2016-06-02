@@ -4,7 +4,7 @@ cask :v1 => 'cryptomator' do
 
   # bintray.com is the official download host per the vendor homepage
   url "https://dl.bintray.com/cryptomator/cryptomator/Cryptomator-#{version}.dmg"
-  name 'Cryptomator'
+  name 'cryptomator'
   homepage 'https://cryptomator.org'
   license :mit
 

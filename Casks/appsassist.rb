@@ -3,7 +3,7 @@ cask :v1 => 'appsassist' do
   sha256 '8efdf9b21c9930beafaa2c9ae6a2315dd56eda60fbf4823a0df4da1b6dd94276'
 
   url 'http://dougscripts.com/itunes/scrx/appsassistv1.zip'
-  name 'Apps Assist'
+  name 'appsassist'
   homepage 'http://dougscripts.com/itunes/itinfo/appsassistapp.php'
   license :freemium
 

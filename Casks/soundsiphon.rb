@@ -3,7 +3,7 @@ cask :v1 => 'soundsiphon' do
   sha256 'fe74403d9aa7ba95f56070c376f30d4aa4eea814fecc9319767215605f6d085c'
 
   url 'http://staticz.com/download/1837/'
-  name 'Sound Siphon'
+  name 'soundsiphon'
   homepage 'http://staticz.com/'
   license :commercial
 

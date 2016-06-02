@@ -3,7 +3,7 @@ cask :v1 => 'a-better-finder-rename10' do
   sha256 :no_check
 
   url 'http://www.publicspace.net/download/ABFRX.dmg'
-  name 'A Better Finder Rename'
+  name 'a-better-finder-rename10'
   appcast 'http://www.publicspace.net/app/signed_abfr10.xml'
   homepage 'http://www.publicspace.net/ABetterFinderRename/'
   license :commercial
